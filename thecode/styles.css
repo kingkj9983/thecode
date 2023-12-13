@@ -1,0 +1,23 @@
+header{
+    text-align: center;
+    padding: 2%;
+}
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 21px;
+}
+
+h1{
+    text-align: center;
+    font-size: 42px;
+}
+
+h2{
+    text-align: center;
+}
+
+.sip img{
+    text-align: center;
+}
